@@ -1,9 +1,14 @@
 # restaurant-feed
 ### How to set up project
+
 You can launch the client from the terminal by:
+
 1.) navigating to the directory of the project.
+
 2.) type: py -m http.server 8000 (or whichever port number you wish to use)
+
 3.) on your prefered browswer visit the site http://localhost:8000
+
 
 # PROJECT SPECIFICATION
 ### Restaurant Reviews: Stage 1
