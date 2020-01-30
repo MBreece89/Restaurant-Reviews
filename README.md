@@ -1,4 +1,4 @@
-# restaurant-feed
+# restaurant-review
 ### How to set up project
 
 You can launch the client from the terminal by:
